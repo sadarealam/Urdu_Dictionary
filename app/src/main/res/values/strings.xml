@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Urdu Dictionary</string>
+    <string name="version">Version: 3.4.1</string>
+    <string name="home">Home</string>
+    <string name="fav">Fav</string>
+    <string name="history">History</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search Urdu Dictionary</string>
+
+    <string name="action_voice_speak">Speak Now</string>
+    <string name="action_setting">Setting</string>
+
+
+    <string name="fab_behavior">io.github.yesalam.urdudictionary.FabBehavior</string>
+</resources>
