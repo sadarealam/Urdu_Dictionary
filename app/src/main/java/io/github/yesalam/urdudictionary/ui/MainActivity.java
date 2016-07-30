@@ -37,10 +37,6 @@ import com.arlib.floatingsearchview.FloatingSearchView;
 import com.arlib.floatingsearchview.suggestions.SearchSuggestionsAdapter;
 import com.arlib.floatingsearchview.suggestions.model.SearchSuggestion;
 import com.arlib.floatingsearchview.util.Util;
-import com.lapism.searchview.SearchAdapter;
-import com.lapism.searchview.SearchHistoryTable;
-import com.lapism.searchview.SearchItem;
-import com.lapism.searchview.SearchView;
 import io.github.yesalam.urdudictionary.R;
 
 import java.util.ArrayList;
@@ -70,7 +66,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private FloatingSearchView mSearchView ;
     private FloatingActionButton mFab ;
 
-    private SearchHistoryTable mHistoryDatabase ;
 
     private int[] tabIcons = {
             R.drawable.ic_home_white_36dp,
